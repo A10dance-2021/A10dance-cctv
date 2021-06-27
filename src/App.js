@@ -80,13 +80,15 @@ export default class App extends Component  {
               A10dance guide
             </ListGroup.Item>
             <ListGroup.Item>
-              1. Log into the admin portal "here" and create an account, then register a student with your id, name, class and a profile photo of yourself
+              1. Log into the <a href="https://relaxed-nightingale-61649a.netlify.app/">Admin Portal</a> and create an account, then register a student with your id, name, class and a profile photo of yourself.<br></br> 
+              &nbsp;&nbsp;&nbsp; Click into Classes, select your class, and note that you are "NOT PRESENT".
             </ListGroup.Item>
             <ListGroup.Item>
-              2. Our stimulation for CCTV is "here", use the stimulation to start detecting yourself through your webcam. Your attendance will be taken as well.
+              2. Our <a href="https://gifted-euclid-f1066c.netlify.app/">Web Application CCTV Simulation</a> will start detecting people in the frame and record attendance once you click "Start Detection". <br></br> 
+              &nbsp;&nbsp;&nbsp; A bounding box with your student id and student name will be shown on the video feed as well.
             </ListGroup.Item>
             <ListGroup.Item>
-              3. You will see your attendance recorded at the admin portal under {'Classes > Select your class'}, the color of your name will be in green and the reporting time will be shown.
+              3. You will see your attendance recorded at the Admin Portal where the color of your name will be in green and the reporting time will be shown.
             </ListGroup.Item>
           </ListGroup>
           <Container className="p-0 position-relative">

@@ -1,4 +1,4 @@
-# a10dance-cctv
+# A10dance-cctv
 
 a10dance-functions uses React to create the CCTV simulation for realtime attendance taking. <br /><br />
 Live site deployed at https://gifted-euclid-f1066c.netlify.app/ using Netlify. <br />

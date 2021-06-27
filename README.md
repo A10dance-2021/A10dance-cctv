@@ -10,3 +10,6 @@ Steps to run the application on your local machine.
 2. Inside your local repository, run `npm i` to install all dependencies for the project.
 3. Run `npm start` to run the web application.
 4. View `localhost:3000` on your browser to view the locally deployed web application.
+
+### Software Architecture
+![Orbital Architecture](https://user-images.githubusercontent.com/35002411/123557189-12903500-d7c2-11eb-946a-f65947b3ec98.png)
